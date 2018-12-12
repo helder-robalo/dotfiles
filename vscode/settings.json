@@ -1,0 +1,38 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Monokai Dimmed",
+    "materialTheme.cache.workbench.settings": {
+        "themeColours": "Darker"
+    },
+    "window.title": "${activeEditorShort}${separator}${activeEditorMedium}",
+    "window.zoomLevel": 0,
+    "editor.minimap.enabled": false,
+    "trailing-spaces.trimOnSave": true,
+    "explorer.confirmDragAndDrop": false,
+    "material-icon-theme.showUpdateMessage": false,
+    "vsicons.presets.hideExplorerArrows": true,
+    "explorer.confirmDelete": false,
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressResultsExplorerNotice": false,
+        "suppressShowKeyBindingsNotice": true
+    },
+    "editor.formatOnSave": false,
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+    "gitlens.historyExplorer.enabled": true,
+    "gitlens.gitExplorer.files.layout": "auto",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.activityBar.visible": true,
+    "gitlens.views.repositories.files.layout": "auto",
+    "gitlens.views.fileHistory.enabled": true,
+    "gitlens.views.lineHistory.enabled": true,
+    "typescript.updateImportsOnFileMove.enabled": "always"
+}
